@@ -44,7 +44,7 @@ function Card({ image, hueA, hueB }: Props) {
                     className={`${styles.card}`}
                     variants={cardVariants}>
                     <div className="">
-                        <Image src={image} alt=""
+                        <Image src={image.toString()} alt=""
                             width={250}
                             height={250}
                             className="relative object-none w-64 h-80 bottom-7"
