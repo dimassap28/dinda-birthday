@@ -8,7 +8,6 @@
   justify-content: center;
   min-height: 100vh;
   background-color: var(--dark-color);
-  overflow: hidden;
   perspective: 1000px;
 }
 
@@ -1334,6 +1333,6 @@
   }
 }
 
-// .container * {
-// animation-play-state: paused !important;
-// }
+.container * {
+  animation-play-state: var(--play) !important;
+}
