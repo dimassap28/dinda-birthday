@@ -1,6 +1,5 @@
 "use client";
 import { useTransform, useScroll, motion } from "framer-motion";
-import Particles from "../Particles/particles";
 
 export default function ScrollSection() {
     const { scrollYProgress } = useScroll();
