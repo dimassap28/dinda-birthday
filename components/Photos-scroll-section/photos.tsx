@@ -5,7 +5,7 @@ import Image from "next/image";
 
 
 interface Props {
-    image: Image;
+    image: typeof Image;
     hueA: number;
     hueB: number;
 }
