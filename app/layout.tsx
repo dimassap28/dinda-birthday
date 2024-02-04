@@ -3,7 +3,6 @@ import LocalFont from "next/font/local";
 import { Poppins } from "next/font/google";
 import "./globals.css";
 import "../global.css";
-import Particles from "@/components/Particles/particles";
 import Script from "next/script";
 
 export const metadata: Metadata = {
@@ -29,14 +28,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${poppins.variable} ${calSans.variable} scroll-smooth antialiased`}>
-      <body className="flex flex-col justify-between min-h-screen">
-        <Particles
-          className="absolute inset-0 -z-10 animate-fade-in"
-          quantity={100}
-        />
+      <body className="flex flex-col justify-between min-h-screen"
+        data-aos-easing="ease-out-back"
+        data-aos-duration="1000"
+        data-aos-delay="0"
+      >
         {children}
+        <Script src="https://unpkg.com/aos@2.3.1/dist/aos.js" />
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"></link>
       </body>
-      <Script src="main.js"></Script>
     </html>
   );
 }
