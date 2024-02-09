@@ -68,7 +68,17 @@ const food: [any, number, number][] = [
 ];
 
 export default function Photos() {
-    return food.map(([image, hueA, hueB]) => (
-        <Card image={image} hueA={hueA} hueB={hueB} key={image} />
-    ));
+    return (
+        <section>
+            <div className="bg-gradient-to-b from-[#fafafa] to-[#fafafa]/70 bg-clip-text text-transparent text-center line-clamp-2 text-7xl font-display font-bold" data-aos="fade-up">me·mò·ria</div>
+            <div className="mt-4 bg-gradient-to-b from-[#fafafa] to-[#fafafa]/70 bg-clip-text text-transparent font-poppins text-center line-clamp-2 text-xl font-normal" data-aos="fade-up">
+                In the golden tapestry of time, let this moment weave itself as a cherished symphony—a memory <br /> to remember, etched in the ethereal scrolls of our shared odyssey.
+            </div>
+            {food.map(([image, hueA, hueB]) => (
+                <Card image={image} hueA={hueA} hueB={hueB} key={image} />
+            ))}
+        </section>
+    )
+
+
 }
