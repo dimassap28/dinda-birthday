@@ -46,7 +46,7 @@ export default function Picture() {
                     data-aos="fade-left"
                 >
                     <p className="bg-gradient-to-b from-[#fafafa] to-[#fafafa]/70 bg-clip-text text-transparent text-lg font-normal">
-                        I hope God always keeps that lovely smile of yours safe because seeing you happy makes me the happiest. You should be loved for who you are without hiding any parts you think are unlovable. If I could give you one thing in life, it would be the ability to see how special you are through my eyes. You're my first in a big way—not just my first in relationships or saying "I love you," but the first person who makes me feel truly enough and shows me what love really means. I don't know how to thank you, but I'm so glad you came into my life because you've made it so much better.</p>
+                        I hope God always keeps that lovely smile of yours safe because seeing you happy makes me the happiest. You should be loved for who you are without hiding any parts you think are unlovable. If I could give you one thing in life, it would be the ability to see how special you are through my eyes. You&apos;re my first in a big way—not just my first in relationships or saying &quot;I love you,&quot; but the first person who makes me feel truly enough and shows me what love really means. I don&apos;t know how to thank you, but I&apos;m so glad you came into my life because you&apos;ve made it so much better.</p>
                 </div>
             </div>
         </div>
