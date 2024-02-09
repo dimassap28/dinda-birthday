@@ -24,7 +24,7 @@ export default function Text() {
             <TextScroll>
                 <h1 className={`${styles.text} text`}>HAPPY BIRTHDAY!<span className={`${styles.span}`}>WISHING YOU
                 </span></h1>
-                <h1 className={`${styles.text} text`}>24 CLUB<span className={`${styles.span} `}>JOINING THE</span></h1>
+                <h1 className={`${styles.text} text`}>25 CLUB<span className={`${styles.span} `}>JOINING THE</span></h1>
                 <h1 className={`${styles.text} text`}>LOVE & JOY<span className={`${styles.span} `}>FILLED WITH</span></h1>
                 <h1 className={`${styles.text} text`}>CELEBRATING YOU<span className={`${styles.span}`}>ANOTHER YEAR</span></h1>
                 <h1 className={`${styles.text} text`}>SURPRISE INSIDE<span className={`${styles.span} cursor-pointer`} onClick={() => setModalOpen(true)}>HOVER FOR LOVE</span></h1>

@@ -8,7 +8,7 @@ export default function Picture() {
                 data-aos="fade-up"
             >
                 <h1 className="text-6xl md:text-8xl h-28 font-bold text-transparent font-poppins bg-gradient-to-b from-[#fafafa] to-[#4d4d4d] tracking-tighter leading-tight md:pr-8 bg-clip-text">
-                    24 Club.
+                    25 Club.
                 </h1>
 
                 <h4 className="text-center md:text-left text-transparent bg-gradient-to-b from-[#fafafa] to-[#4d4d4d] bg-clip-text text-xl mt-5 md:pl-8">
