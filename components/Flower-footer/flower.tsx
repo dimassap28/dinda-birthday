@@ -1,11 +1,10 @@
 "use client";
 
-import { animate, inView, useInView } from 'framer-motion';
+import { useInView } from 'framer-motion';
 import main from './main.module.scss';
 import Script from 'next/script';
 import { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { root } from 'postcss';
 
 
 export default function Flower({
