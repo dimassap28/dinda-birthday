@@ -30,6 +30,7 @@ const config: Config = {
       fontFamily: {
         // sans: ["var(--font-inter)", ...defaultTheme.fontFamily.sans],
         display: ["var(--font-calsans)"],
+        poppins: ["var(--font-poppins)"],
       },
       backgroundImage: {
         "gradient-radial":
