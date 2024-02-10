@@ -23,7 +23,7 @@ const testimonials = [
             {
                 id: 0,
                 body: 'Selamat memasuki 1/4 abad Dinda! Katanya orang-orang tua di internet, ini usia rentan overthinking karena kita tau dewasa adalah satu hal baru bagi kita yang dulunya terpaku pada nilai-nilai rapor, dan sekarang rasanya waktu berjalan terlalu cepat di saat dunia masih memiliki banyak tempat yang mau kita lihat dan jelajahi. Kalau menurutku kita nggak perlu terlalu terpaku menjadi dewasa seperti apa yang kita bayangkan dari tumbuh melihat orang-orang dewasa di sekitar kita, karena ternyata mereka juga tumbuh versi mereka masing-masing. Jadi semoga kamu menjadi the best version of yourself, meskipun langkah-langkahnya tidak selalu sama, tapi semoga suatu saat kamu sampai di cita-cita yang kamu inginkan. Karena hidup rasanya nggak mungkin selalu manis, semoga kamu selalu menemukan bahagia-bahagiamu di setiap hal kecil hari-harimu, dan meskipun ada hari-hari sedih, semoga semua terluap. Doa baik untuk Dinduy uy uy. Happy birthday!',
-                name: 'shaabrina13',
+                name: 'Shabrina Ishmah',
                 handle: 'shaabrina13',
                 imageUrl:
                     Image1,
@@ -31,11 +31,14 @@ const testimonials = [
             },
             {
                 id: 1,
-                body: `Welcome to 25, Dinda! You've become such a beautiful, caring, and reliable friend to all of us.I'm happy to see you grow and reach what you've been working for, and you deserve all the happiness in this world.
-                May well- being, health, and blessings shower upon you and your family by Allah.
+                body:
+                    `Welcome to 25, Dinda! You've become such a beautiful, caring, and reliable friend to all of us.I'm happy to see you grow and reach what you've been working for, and you deserve all the happiness in this world.
+
+                    May well- being, health, and blessings shower upon you and your family by Allah.
+
                 Love, Wawa`,
 
-                name: 'salwanf',
+                name: 'Salwa Nur Fitri',
                 handle: 'salwanf',
                 imageUrl:
                     Image2,
@@ -44,9 +47,10 @@ const testimonials = [
             {
                 id: 2,
                 body: `Selamat 10 februari ke 25 Didinnn!! Semoga sehat selaluu terus kerjaan lancar ga membuat kemumetan, moga taun ini only good things happen to you, bisa konseran banyak-banyak, travelling banyak-banyak, kuliner banyak-banyak!! I hope you'll be nothing but happy this year too!! Happy bday once again dinda luv youuu💕💕💕
+                
                 Xoxo popo`,
 
-                name: 'adsaraaswati',
+                name: 'Raras',
                 handle: 'adsaraaswati',
                 imageUrl:
                     Image3,
@@ -70,7 +74,7 @@ const testimonials = [
                 id: 4,
                 body: 'Mabruk alfa mabruk, Happy Birthday Dindaa 🥳🥳. Semoga diberikan kesehatan, diberikan umur yang panjang dan barokah. Lancar rezekinya, langgeng sm Dimas dan bahagia terus. Semoga semua keinginan tercapai, aamiin ya rabbal alamin',
 
-                name: 'maudy_03',
+                name: 'Salsabilla Maudy',
                 handle: 'maudy_03',
                 imageUrl:
                     Image5,
@@ -79,12 +83,14 @@ const testimonials = [
             {
                 id: 5,
                 body: `Selamat ulang tahun dindaaaaaaa....
-Semoga diberikan kesehatan dan kebahagiaan selalu dimanapun, kapanpun dan dengan siapapun, dilancarkan pekerjaannya, dimudahkan dalam mencari rezekinya.Aamiinn
-Semoga lancar terus urusan asmaranya hihihihihi...
+                
+                Semoga diberikan kesehatan dan kebahagiaan selalu dimanapun, kapanpun dan dengan siapapun, dilancarkan pekerjaannya, dimudahkan dalam mencari rezekinya.Aamiinn
+                
+                Semoga lancar terus urusan asmaranya hihihihihi...
                 Semoga tetap menjadi dinda yang periang 💕💕
-                    Dan semoga selalu dilindungi Allah SWT dimanapun dan kapanpun dinda berada.Aamiinn 🥰🥰`,
+                Dan semoga selalu dilindungi Allah SWT dimanapun dan kapanpun dinda berada.Aamiinn 🥰🥰`,
 
-                name: 'rikaper_13',
+                name: 'Rika Permatasari',
                 handle: 'rikaper_13',
                 imageUrl:
                     Image6,
@@ -100,7 +106,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 Livia`,
 
                 name: 'Livia Kristina',
-                handle: 'liviakristina',
+                handle: 'liviakris_',
                 imageUrl:
                     Image7,
 
@@ -114,7 +120,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 id: 7,
                 body: 'Tan Dinnn happy birthday to you🫶 semoga di umur 25 tahun ini bisa tercapai semua yang diinginkan, sehat2 dan bahagia terusss. Karir lancar dan relationship bersama keluarga, teman, dan pasangan ttp hangat dan eratt🖤Semoga selese sakit giginya supaya ttp bisa seneng2 tanpa merintih wkwkwkwk ayoooo kita laksanakan trip kbrbrz juga di tahun ini!! Love you and miss you semoga di tahun selanjutnya bisa ngerayain ultahmu sama2🥺',
 
-                name: 'salandika',
+                name: 'Salsabila Andika P.',
                 handle: 'salandika',
                 imageUrl:
                     Image8,
@@ -124,7 +130,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 id: 8,
                 body: 'Selamat quarter life Dinda, semoga semakin makin akan kemakinan yang makin makin diperuntukkan untuk kemakinan yang dimakinkan oleh termakinkan pada kemakinannya. Semoga semakin makin ♥️♥️♥️',
 
-                name: '0.oca.0',
+                name: 'Oca',
                 handle: '0.oca.0',
                 imageUrl:
                     Image9,
@@ -135,7 +141,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 body: 'happy birthday Dinda, hope your special day is as good to you as you are to others! Wishing you all the best on your birthday, filled with lots of love, joy, and peace 🫶🏻 Your existence means a lot to me and you deserve everything you get, I hope this year brings you only the best of the best!! love you Dinda 💋',
 
                 name: 'Gabriella Stefani',
-                handle: '0.oca.0',
+                handle: 'gabriellastefani',
                 imageUrl:
                     Image10,
 
@@ -147,7 +153,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 id: 10,
                 body: 'Selamat hari lahir, din! Berkah umurnya, sehat selalu, dimudahkan urusan2nnya, semoga Allah selalu lindungin kamu! Doa yg baik2 juga buat kamu sama dimas 🤲🏻',
 
-                name: 'raafigf',
+                name: 'Raafi Gita Fisabila',
                 handle: 'raafigf',
                 imageUrl:
                     Image11,
@@ -157,7 +163,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
                 id: 11,
                 body: 'Selamat mengulang tanggal dan menandai umur yang lebih tua ya Din... semoga di tahun ini dan tahun depan selalu diberi kesehatan baik mental dan fisik serta dimudahkan banyak jalan yg kamu mau. Oh iya semoga prabowo ga jadi presiden, mari kita aminkan semwaaa',
 
-                name: 'ayunfzh',
+                name: 'Ayu Nurfaizah',
                 handle: 'ayunfzh',
                 imageUrl:
                     Image12,
@@ -171,7 +177,7 @@ Semoga lancar terus urusan asmaranya hihihihihi...
 
                 Much love from me!!`,
 
-                name: 'mitapratista',
+                name: 'Danaparamita Pratista',
                 handle: 'mitapratista',
                 imageUrl:
                     Image13,
@@ -274,6 +280,7 @@ export default function GreetingsDetails() {
                                     // initial={{ borderRadius: '1rem' }}
                                     className="relative overflow-hidden rounded-2xl bg-white p-6 shadow-lg shadow-[#ff80b5]/50 ring-1 ring-gray-900/5 cursor-pointer will-change-transform transform-cpu hover:ring-[#ff80b5] hover:ring-4 hover:ring-offset-1"
                                 >
+
                                     <blockquote className="text-gray-900">
                                         <p className="line-clamp-4">{`${testimonial.body}`}</p>
                                     </blockquote>
@@ -302,7 +309,7 @@ export default function GreetingsDetails() {
                                                 className="relative overflow-hidden w-[600px] h-fit bg-white p-6 rounded-2xl shadow-lg shadow-[#ff80b5]/50 ring-1 ring-gray-900/5 will-change-transform transform-cpu"
                                                 style={{ pointerEvents: 'all' }}
                                             >
-                                                <blockquote className="text-gray-900 pr-4">
+                                                <blockquote className="text-gray-900 pr-4 whitespace-pre-line">
                                                     <p>{`${flatbody.at(selectedId)}`}</p>
                                                 </blockquote>
                                                 <figcaption className="mt-6 flex items-center gap-x-4">
